@@ -1,4 +1,37 @@
 {
-  "name": "jaydson-ghost-theme",
-  "version": "0.0.1"
+    "name": "jaydson-ghost-theme",
+    "description": "Custom Ghost theme for jaydson personal blog",
+    "homepage": "https://github.com/jaydson/jaydson-ghost-theme",
+    "demo": "https://jaydson.com",
+    "version": "0.0.1",
+    "engines": {
+        "ghost": "^0.9.0"
+    },
+    "license": "MIT",
+    "screenshots": {
+        "desktop": "assets/screenshot-desktop.jpg",
+        "mobile": "assets/screenshot-mobile.jpg"
+    },
+    "author": {
+        "name": "Jaydson Gomes",
+        "email": "jaydson@nasc.io",
+        "url": "https://jaydson.com"
+    },
+    "gpm": {
+        "type": "theme",
+        "categories": [
+            "Minimal",
+            "Personal Blogs"
+        ]
+    },
+    "keywords": [
+        "ghost",
+        "theme"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jaydson/jaydson-ghost-theme"
+    },
+    "bugs": "https://github.com/jaydson/jaydson-ghost-theme/issues",
+    "contributors": "https://github.com/jaydson/jaydson-ghost-theme/graphs/contributors"
 }
