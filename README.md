@@ -5,5 +5,5 @@ Custom theme for Jaydson's Blog (based on Casper) - [Jaydson Gomes](https://jayd
 To download, visit the [releases](https://github.com/jaydson/jaydson-ghost-theme) page.
 
 ## Copyright & License
-THERE'S NO SUCH THING
+THERE'S NO SUCH THING  
 DO WHATEVER YOU WANT
